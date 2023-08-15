@@ -1,0 +1,31 @@
+# educations section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: VIT University (Tamil Nadu, India)
+    i18n: company_a
+  desc:
+    detail: M.Tech, VLSI Design
+    i18n: company_a_desc
+  date:
+    detail: July 2015 - June 2017
+    i18n: company_a_date
+  job:
+    detail: Degree awarded
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Uttar Pradesh Technical University (Uttar Pradesh, India)
+    i18n: company_a
+  desc:
+    detail: B.Tech, Electronics & Communications Engineering
+    i18n: company_a_desc
+  date:
+    detail: July 2010 - June 2014
+    i18n: company_a_date
+  job:
+    detail: Degree awarded
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
