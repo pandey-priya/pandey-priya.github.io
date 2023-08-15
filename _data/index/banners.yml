@@ -1,0 +1,27 @@
+# carousel banners section
+# Add items for each banner image in the carousel
+#
+# Images are expected to be located in `static/assets/img/`.
+- src: landing/header_one.png
+  title: Forbes 30 Under 30
+
+- src: landing/header_two.png
+  title: Project AirSim Launch 2022
+
+- src: landing/header_three.png
+  title: Endeavor - Energy and AI
+
+- src: landing/header_four.jpg
+  title: Farnborough International Airshow 2022
+
+- src: landing/header_five.png
+  title: Career Trajectory
+
+# - src: landing/header_six.jpg
+#   title: energy and ai
+
+# - src: landing/header_seven.jpg
+#   title: ai and sustainable development
+
+# - src: landing/header_eight.jpg
+#   title: autonomous and connected systems
