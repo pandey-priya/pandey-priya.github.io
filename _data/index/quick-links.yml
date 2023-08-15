@@ -1,0 +1,38 @@
+# links section data
+#- last_name: Licensed
+#  first_name: Professional Engineer
+#  desc: P.E. California
+#  website: https://search.dca.ca.gov/details/7500/E/22357/f047a2d2be102d7d6dec74b4be3cf608
+#  email: sakshimishra732@gmail.com
+
+#- last_name: Google
+#  first_name: Scholar
+#  desc: Profile
+#  website: 
+#  email: 
+
+#- last_name: Research
+#  first_name: Gate
+#  desc: Profile
+#  website: 
+#  email: 
+
+#- last_name: ORCID
+#  first_name: Profile
+#  desc: Details
+#  website: 
+#  email: 
+
+- last_name: Github
+  first_name: Profile
+  desc: Open-sourced Projects
+  website: https://github.com/pandey-priya
+  email: er.priyapandey@ymail.com
+  
+- last_name: Profile
+  first_name: LinkedIn
+  desc: LinkedIn Profile
+  website: https://www.linkedin.com/in/pandey-priya/
+  email: er.priyapandey@ymail.com
+
+
