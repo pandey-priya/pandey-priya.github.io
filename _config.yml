@@ -1,0 +1,83 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Priya
+description: Priya's portfolio, projects, and blog
+#keywords: Sakshi, Sakshi Mishra, autonomous systems, applied machine learning, electric mobility, clean energy, blockchain
+baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://pandey-priya.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author: 
+  name: Priya Pandey  # Be used at blog posts author.
+  first_name: Priya  # Be used at index page about me section.
+  last_name: Pandey  # Be used at index page about me section.
+  avatar: static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatartwo: static/assets/img/landing/avatar_two.jpg  # upload your avatar at directory and edit it.
+  github_username: pandey-priya  
+  linkedin_id: pandey-priya/ 
+  #researchgate_username: Sakshi_Mishra3 
+  #googlescholar_userid: 4EXUytUAAAAJ&hl=en
+  #orcid_id: 0000-0002-5202-8676
+  #facebook_username:  # Leaving blank since I am not on FB
+  #twitter_username:  SakshiMishra_1
+  email: er.priyapandey@ymail.com  
+  #cv: https://drive.google.com/file/d/1uQq4KXqYKeJrNEi7qJVs_37Cg-sx4YX2/view?usp=sharing # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: fa-linux
+    - name: icon-python
+  skill_icon2:
+    - name: icon-git
+    - name: icon-docker
+  #desc: | 
+   # <p><strong>Sakshi Mishra</strong> is a <em>Senior AI engineer-cum-intrapreneur</em> at Microsoft (Redmond, USA) working on building generative-AI based product - named <a href='https://aka.ms/airsim'>Project AirSim</a> - for Aerial Autonomous Systems, bringing state-of-the-art AI into innovative product ideation and prototyping efforts.</p>
+    
+    #<p>Sakshi is <strong>Forbes 30 Under 30</strong> (North America) Honoree in 2022, recipient of 'The Cleantech Innovator' award (2020) from the Clean Energy Leadership Institute (CELI), recipient of Distinguished Alumni - Chancellor’s Special Award (2022) from VIT University. Sakshi has been named one of the 50 most influential corporate and agency insights leaders of the day by Remesh (2020). Sakshi is an <strong>IEEE Senior Member</strong> and holds a Professional Engineer (P.E.) License.</p>
+
+  greetings: "Hello, there!"
+  #extra_desc: |
+   # <p>Previously, Sakshi was an <a href='https://www.nrel.gov/news/program/2020/qa-sakshi-mishra-changing-climate-women-in-stem.html'>Energy + AI Staff Researcher</a> at National Renewable Energy Laboratory, spearheading tool-development-centric research efforts for the digital transformation of the energy industry. She was awarded Chairman’s Award for Exceptional Performance for leading REopt Lite (an energy decision-making tool) software's open-sourcing effort that opened up collaboration doors for industry, developers, and researchers to enable the transformational levels of grid-edge cleantech deployments. Before that, Sakshi was a Grid Planning Engineer at American Electric Power, where she served as an industry advisor for the Power Systems Engineering Research Center (PSERC).</p>
+    #<br>
+    #<p>Sakshi's dynamic journey, spanning across countries and disciplines, has taken her across four countries—United States, Canada, Australia, and India—where she has lived, studied, and excelled professionally over the past decade. Beyond her technical accomplishments, she actively seeks opportunities to engage as a keynote speaker and panelist, effectively communicating the ever-evolving landscape of the applied AI field. She uses her voice to advocate for diversity and inclusion. She received her master's degree in Energy Science Technology and Policy (Electrical and Computer Engineering concentration) from Carnegie Mellon University, as an academic excellence awardee. She obtained her bachelor's degree in Electrical and Electronics Engineering from VIT University, India. She conducted her Bachelor's thesis as a full-ride scholar at Deakin University, Australia. Sakshi has published numerous journal articles, conference papers, and book chapters.</p>
+
+
+# comment
+#disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+ # name: sakshi-mishra
+
+# analytics
+## google analytics
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+ # id: UA-93473370-3
+
+## google optimize
+go:
+  # id:
+
+## growingIO
+gio:  # if you want to have this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
