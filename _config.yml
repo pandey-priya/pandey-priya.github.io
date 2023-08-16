@@ -38,13 +38,13 @@ author:
     
   greetings: "Hello, there!"
   extra_desc: |
-  <p>Throughout my career, I have been actively involved in multiple domains like SoC RTL design (development and standalone validation of DFD feature for SoC systems), Standard cell library characterization and modeling (generation and delivery of liberty and power analysis collaterals). My expertise lies in Digital Design, RTL Coding and Scripting. I have a strong understanding of industry-standard design methodologies and tools, and I am well-versed in hardware description languages such as Verilog(IEEE-1364) and System Verilog(IEEE-1800).</p>
-<br>
-<p>I have successfully contributed to the development of complex System-on-Chip (SoC) designs, working closely with cross-functional teams and collaborating with architects, post-silicon engineers, and verification engineers to ensure seamless integration and functionality. I thrive in fast-paced environments, tackling challenging design problems, and delivering high-quality results within tight schedules.</p>
-  <br>
-  <p>My technical skills extend to areas such as digital logic design, low-power design techniques, AMBA protocols, Design-for-Debug and computer architecture. I have hands-on experience with industry-leading tools, including Synopsys CoreTools, Ansys RedHawk and Cadence Voltus. I also have basic understanding of ASIC Physical Design flow and ASIC Verification flow.</p>
-<br>
-<p>In addition to my technical expertise, I possess excellent analytical and problem-solving skills, allowing me to identify and address design issues effectively. I am a proactive learner, always staying up-to-date with the latest advancements in the semiconductor industry and continuously expanding my knowledge to embrace emerging technologies.</p>
+    <p>Throughout my career, I have been actively involved in multiple domains like SoC RTL design (development and standalone validation of DFD feature for SoC systems), Standard cell library characterization and modeling (generation and delivery of liberty and power analysis collaterals). My expertise lies in Digital Design, RTL Coding and Scripting. I have a strong understanding of industry-standard design methodologies and tools, and I am well-versed in hardware description languages such as Verilog(IEEE-1364) and System Verilog(IEEE-1800).</p>
+    <br>
+    <p>I have successfully contributed to the development of complex System-on-Chip (SoC) designs, working closely with cross-functional teams and collaborating with architects, post-silicon engineers, and verification engineers to ensure seamless integration and functionality. I thrive in fast-paced environments, tackling challenging design problems, and delivering high-quality results within tight schedules.</p>
+    <br>
+    <p>My technical skills extend to areas such as digital logic design, low-power design techniques, AMBA protocols, Design-for-Debug and computer architecture. I have hands-on experience with industry-leading tools, including Synopsys CoreTools, Ansys RedHawk and Cadence Voltus. I also have basic understanding of ASIC Physical Design flow and ASIC Verification flow.</p>
+    <br>
+    <p>In addition to my technical expertise, I possess excellent analytical and problem-solving skills, allowing me to identify and address design issues effectively. I am a proactive learner, always staying up-to-date with the latest advancements in the semiconductor industry and continuously expanding my knowledge to embrace emerging technologies.</p>
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
