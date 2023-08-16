@@ -18,7 +18,7 @@ author:
   avatartwo: static/assets/img/landing/avatar_two.jpg  # upload your avatar at directory and edit it.
   github_username: pandey-priya  
   linkedin_id: pandey-priya/ 
-  #researchgate_username: Sakshi_Mishra3 
+  researchgate_username: Priya_Pandey
   #googlescholar_userid: 4EXUytUAAAAJ&hl=en
   #orcid_id: 0000-0002-5202-8676
   #facebook_username:  # Leaving blank since I am not on FB
@@ -32,17 +32,19 @@ author:
   skill_icon2:
     - name: icon-git
     - name: icon-docker
-  #desc: | 
-   # <p><strong>Sakshi Mishra</strong> is a <em>Senior AI engineer-cum-intrapreneur</em> at Microsoft (Redmond, USA) working on building generative-AI based product - named <a href='https://aka.ms/airsim'>Project AirSim</a> - for Aerial Autonomous Systems, bringing state-of-the-art AI into innovative product ideation and prototyping efforts.</p>
+  desc: | 
+    <p><strong>Priya Pandey</strong> is a skilled <em> VLSI Design Engineer</em> with 5 years of experience in the field.</p>
     
-    #<p>Sakshi is <strong>Forbes 30 Under 30</strong> (North America) Honoree in 2022, recipient of 'The Cleantech Innovator' award (2020) from the Clean Energy Leadership Institute (CELI), recipient of Distinguished Alumni - Chancellor’s Special Award (2022) from VIT University. Sakshi has been named one of the 50 most influential corporate and agency insights leaders of the day by Remesh (2020). Sakshi is an <strong>IEEE Senior Member</strong> and holds a Professional Engineer (P.E.) License.</p>
-
+    
   greetings: "Hello, there!"
-  #extra_desc: |
-   # <p>Previously, Sakshi was an <a href='https://www.nrel.gov/news/program/2020/qa-sakshi-mishra-changing-climate-women-in-stem.html'>Energy + AI Staff Researcher</a> at National Renewable Energy Laboratory, spearheading tool-development-centric research efforts for the digital transformation of the energy industry. She was awarded Chairman’s Award for Exceptional Performance for leading REopt Lite (an energy decision-making tool) software's open-sourcing effort that opened up collaboration doors for industry, developers, and researchers to enable the transformational levels of grid-edge cleantech deployments. Before that, Sakshi was a Grid Planning Engineer at American Electric Power, where she served as an industry advisor for the Power Systems Engineering Research Center (PSERC).</p>
-    #<br>
-    #<p>Sakshi's dynamic journey, spanning across countries and disciplines, has taken her across four countries—United States, Canada, Australia, and India—where she has lived, studied, and excelled professionally over the past decade. Beyond her technical accomplishments, she actively seeks opportunities to engage as a keynote speaker and panelist, effectively communicating the ever-evolving landscape of the applied AI field. She uses her voice to advocate for diversity and inclusion. She received her master's degree in Energy Science Technology and Policy (Electrical and Computer Engineering concentration) from Carnegie Mellon University, as an academic excellence awardee. She obtained her bachelor's degree in Electrical and Electronics Engineering from VIT University, India. She conducted her Bachelor's thesis as a full-ride scholar at Deakin University, Australia. Sakshi has published numerous journal articles, conference papers, and book chapters.</p>
-
+  extra_desc: |
+  <p> Throughout my career, I have been actively involved in multiple domains like SoC RTL design (development and standalone validation of DFD feature for SoC systems), Standard cell library characterization and modeling (generation and delivery of liberty and power analysis collaterals). My expertise lies in Digital Design, RTL Coding and Scripting. I have a strong understanding of industry-standard design methodologies and tools, and I am well-versed in hardware description languages such as Verilog(IEEE-1364) and System Verilog(IEEE-1800).<p>
+<br>
+<p>I have successfully contributed to the development of complex System-on-Chip (SoC) designs, working closely with cross-functional teams and collaborating with architects, post-silicon engineers, and verification engineers to ensure seamless integration and functionality. I thrive in fast-paced environments, tackling challenging design problems, and delivering high-quality results within tight schedules. <p>
+  <br>
+  <p> My technical skills extend to areas such as digital logic design, low-power design techniques, AMBA protocols, Design-for-Debug and computer architecture. I have hands-on experience with industry-leading tools, including Synopsys CoreTools, Ansys RedHawk and Cadence Voltus. I also have basic understanding of ASIC Physical Design flow and ASIC Verification flow.<p>
+<br>
+In addition to my technical expertise, I possess excellent analytical and problem-solving skills, allowing me to identify and address design issues effectively. I am a proactive learner, always staying up-to-date with the latest advancements in the semiconductor industry and continuously expanding my knowledge to embrace emerging technologies.<p>
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
