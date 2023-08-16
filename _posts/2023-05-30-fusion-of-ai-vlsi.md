@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Unleashing the Power of Synergy: "
+title:  "Unleashing the Power of Synergy: The Fusion of AI/ML and VLSI for Technological Breakthroughs"
 date:   2023-05-30
-desc: "The Fusion of AI/ML and VLSI for Technological Breakthroughs"
+desc: ""
 keywords: "vlsi design, artificial intelligence, machine learning"
 categories: [Ai+ml]
 tags: [priya-pandey, machine-learning, artificial-intelligence]
