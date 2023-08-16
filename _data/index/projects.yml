@@ -2,40 +2,37 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: VLSI architecture of dual-standard de-blocking filter for HAVC/HEVC
- # i18n: jalpc
+  i18n: jalpc
 #  gh_user: sakshi-mishra
 #  repo: solar-forecasting-RNN
 #  img: /static/assets/img/landing/solar-1.jpg
   desc:  Implemented a dual-standard de-blocking filter architecture, which supports both H.264/AVC and HEVC models
 
 - name: Low Power Wallace Tree Multiplier Using Modified Full Adder
- # i18n: jalpc
+  i18n: jalpc
 #  gh_user: sakshi-mishra
 #  repo: solar-forecasting-RNN
 #  img: /static/assets/img/landing/solar-1.jpg
-  desc:  Designed a Wallace Tree Multiplier with modified full adder to achieve low power consumption. The ASIC synthesis results showed an
-average reduction in power consumption, area, and delay compared to the existing approaches
+  desc:  Designed a Wallace Tree Multiplier with modified full adder to achieve low power consumption. The ASIC synthesis results showed an average reduction in power consumption, area, and delay compared to the existing approaches
 
 - name: ASIC Implementation of BIST embedded UART
- # i18n: jalpc
+  i18n: jalpc
 #  gh_user: sakshi-mishra
 #  repo: solar-forecasting-RNN
 #  img: /static/assets/img/landing/solar-1.jpg
   desc:  Designed a BIST embedded UART, which is capable of transmission and reception of data bits with accuracy and speed
 
 - name: HSPICE Based Macro-model of Magnetic Tunnel Junctions
- # i18n: jalpc
+  i18n: jalpc
 #  gh_user: sakshi-mishra
 #  repo: solar-forecasting-RNN
 #  img: /static/assets/img/landing/solar-1.jpg
-  desc:  HSpice Modeled the characteristics of MTJ sub circuit using HSPICE simulator, which is connected along with an NMOS device to act as
-a basic 1T-1MTJ memory cell
+  desc:  HSpice Modeled the characteristics of MTJ sub circuit using HSPICE simulator, which is connected along with an NMOS device to act as a basic 1T-1MTJ memory cell
 
 - name: Design of Low Drop-Out Voltage Regulator with Feed-Forward Ripple Cancellation Technique Cadence Virtuoso Tool
- # i18n: jalpc
+  i18n: jalpc
 #  gh_user: sakshi-mishra
 #  repo: solar-forecasting-RNN
 #  img: /static/assets/img/landing/solar-1.jpg
-  desc:  Designed a Low Drop Out (LDO) regulator using feed forward ripple cancellation technique that uses low power and has the capability
-to reject line regulation and load regulation
+  desc:  Designed a Low Drop Out (LDO) regulator using feed forward ripple cancellation technique that uses low power and has the capability to reject line regulation and load regulation
 
