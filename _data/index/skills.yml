@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: VLSI Design, Verilog, System Verilog, Artificial Intelligence, Machine Learning, Public-Speaking, Python Programming, Perl Programming, Git
-percentage: 90, 85, 80, 65, 75, 65, 85, 90, 85
+aspects: ASIC Design, Low power design, AMBA Protocols, Peripheral protocols, Design for Debug, Computer Architecture, MS Office, Lint, CDC, Library characterization, RTL Integration
+percentage: 90, 85, 60, 65, 80, 85, 80, 85, 85, 75, 80
