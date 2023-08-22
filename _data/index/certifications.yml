@@ -32,3 +32,35 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: false
+
+- name:
+    detail: "Digital Systems: From Logic Gates to Processors"
+    i18n: company_a
+    url: 
+  desc:
+    detail: Coursera
+    i18n: company_a_desc
+  date:
+    detail: June 2023
+    i18n: company_a_date
+  job:
+    detail: Deep understanding of Digital Design
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "UPF Power Aware Design and Verification (Robin Garg)"
+    i18n: company_a
+    url: 
+  desc:
+    detail: Udemy
+    i18n: company_a_desc
+  date:
+    detail: May 2023
+    i18n: company_a_date
+  job:
+    detail: Basics of UPF
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
