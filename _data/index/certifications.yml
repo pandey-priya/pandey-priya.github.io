@@ -6,13 +6,29 @@
     i18n: company_a
     url: 
   desc:
-    detail:
+    detail: Udemy
     i18n: company_a_desc
   date:
     detail: July 2023
     i18n: company_a_date
   job:
-    detail:
+    detail: 
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "Python for Everybody Specialization (University of Michigan)"
+    i18n: company_a
+    url: 
+  desc:
+    detail: Coursera
+    i18n: company_a_desc
+  date:
+    detail: June 2023
+    i18n: company_a_date
+  job:
+    detail: Did a course on Python programming
     i18n: company_a_job
   icon: fa-plus-square
   present: false
