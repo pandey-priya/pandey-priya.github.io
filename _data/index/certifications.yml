@@ -64,3 +64,35 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: false
+
+- name:
+    detail: "VSD - Static Timing Analysis (Kunal Ghosh)"
+    i18n: company_a
+    url: 
+  desc:
+    detail: Udemy
+    i18n: company_a_desc
+  date:
+    detail: Feb 2023
+    i18n: company_a_date
+  job:
+    detail: Basic and advanced STA
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "Hands-on training in Device to GDS2 for IC design"
+    i18n: company_a
+    url: 
+  desc:
+    detail: VIT University
+    i18n: company_a_desc
+  date:
+    detail: Oct 2016
+    i18n: company_a_date
+  job:
+    detail: Device to GDS2 for IC design
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
