@@ -2,6 +2,22 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: "Machine Learning Specialization"
+    i18n: company_a
+    url: 
+  desc:
+    detail: Coursera
+    i18n: company_a_desc
+  date:
+    detail: Aug 2023
+    i18n: company_a_date
+  job:
+    detail: Skills - Machine learning, Jupyter
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+  
+- name:
     detail: "Verilog HDL: VLSI Hardware Design Comprehensive Masterclass (Shepherd Tutorials)"
     i18n: company_a
     url: 
@@ -12,7 +28,7 @@
     detail: July 2023
     i18n: company_a_date
   job:
-    detail: 
+    detail: Skills - Verilog, Digital Design
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -28,7 +44,7 @@
     detail: June 2023
     i18n: company_a_date
   job:
-    detail: Did a course on Python programming
+    detail: Skills - Python programming
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -44,7 +60,7 @@
     detail: June 2023
     i18n: company_a_date
   job:
-    detail: Deep understanding of Digital Design
+    detail: Skills - Digital Design, Processor Design
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -60,7 +76,7 @@
     detail: May 2023
     i18n: company_a_date
   job:
-    detail: Basics of UPF
+    detail: Skills - Low power design, Unified Power Format
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -76,7 +92,7 @@
     detail: Feb 2023
     i18n: company_a_date
   job:
-    detail: Basic and advanced STA
+    detail: Skills - Static Timing Analysis, Metastability, Timing
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -92,7 +108,8 @@
     detail: Oct 2016
     i18n: company_a_date
   job:
-    detail: Device to GDS2 for IC design
+    detail: Skills - Backend ASIC Design flow
     i18n: company_a_job
   icon: fa-plus-square
   present: false
+
