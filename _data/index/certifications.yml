@@ -2,17 +2,17 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: "[Interview Feature] SWE AllTogether on Generative AI"
+    detail: "Verilog HDL: VLSI Hardware Design Comprehensive Masterclass (Shepherd Tutorials)"
     i18n: company_a
-    url: https://alltogether.swe.org/2023/07/generative-ai-engineers/
+    url: 
   desc:
-    detail: Society of Women Engineer's All Together Blog
+    detail:
     i18n: company_a_desc
   date:
     detail: July 2023
     i18n: company_a_date
   job:
-    detail: Interviewed to share perspective about leveraging Gen-AI technology
+    detail:
     i18n: company_a_job
   icon: fa-plus-square
   present: false
