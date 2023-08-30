@@ -44,6 +44,21 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: false
+  
+- name:
+    detail: NXP Semiconductors (Bengaluru, India)
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: company_a_desc
+  date:
+    detail: August 2017 - Dec 2017
+    i18n: company_a_date
+  job:
+    detail: Library Characterization Engineer (Contract)
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
 
 - name:
     detail: STMicroelectronics NV (Greater Noida, India)
