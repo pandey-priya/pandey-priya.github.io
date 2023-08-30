@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: NuMem Inc. (Arizona, United States)
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: company_a_desc
+  date:
+    detail: August 2023 - Present
+    i18n: company_a_date
+  job:
+    detail: RTL Design Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: Intel Corporation (Bengaluru, India)
     i18n: company_a
   desc:
@@ -13,7 +28,7 @@
     detail: SoC Design Engineer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Intel Corporation (Bengaluru, India)
