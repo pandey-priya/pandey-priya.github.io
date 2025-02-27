@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: NuMem Inc. (Arizona, United States)
+    detail: Microchip Technology Inc. (Arizona, United States)
     i18n: company_a
   desc:
     detail: 
     i18n: company_a_desc
   date:
-    detail: August 2023 - Present
+    detail: October 2023 - Present
     i18n: company_a_date
   job:
     detail: RTL Design Engineer
