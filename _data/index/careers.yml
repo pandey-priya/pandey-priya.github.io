@@ -16,6 +16,21 @@
   present: true
 
 - name:
+    detail: Numem Inc. (Arizona, United States)
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: company_a_desc
+  date:
+    detail: April 2023 - October 2023
+    i18n: company_a_date
+  job:
+    detail: Senior SOC Design Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
     detail: Intel Corporation (Bengaluru, India)
     i18n: company_a
   desc:
