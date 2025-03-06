@@ -10,7 +10,7 @@
     detail: October 2023 - Present
     i18n: company_a_date
   job:
-    detail: Senior SOC Design Engineer
+    detail: Senior Design Engineer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -25,7 +25,7 @@
     detail: April 2023 - October 2023
     i18n: company_a_date
   job:
-    detail: Senior SOC Design Engineer
+    detail: RTL Design Engineer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
